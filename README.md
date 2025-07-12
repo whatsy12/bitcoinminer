@@ -1,4 +1,4 @@
-# CLAUDE AI HAS MADE THIS WHOLE PROJECT
+CLAUDE AI HAS MADE THIS WHOLE PROJECT
 # How to use the miner, and how it works.
 Real Network Features:
 
