@@ -1,5 +1,7 @@
 # CLAUDE AI HAS MADE THIS WHOLE PROJECT
+<br>
 
+# How to use the miner, and how it works.
 Real Network Features:
 
 Bitcoin Core Integration: Connects to your Bitcoin Core node via RPC
