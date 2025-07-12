@@ -1,4 +1,4 @@
-I used claude ai to make the miner
+Claude was used in making the miner
 
 # How to use the miner, and how it works.
 Real Network Features:
